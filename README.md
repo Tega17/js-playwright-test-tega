@@ -11,7 +11,7 @@ This repository contains automated tests written in **Playwright** (JavaScript) 
 
 1. Clone or create the project folder:
    ```bash
-   cd /path/to/js-playwright-test
+   cd /path/to/js-playwright-test-tega
 
 npm init -y
 npm install
